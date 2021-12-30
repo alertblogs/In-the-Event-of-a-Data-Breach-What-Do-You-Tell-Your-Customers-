@@ -1,40 +1,25 @@
-AlertOps Expert Guidance
+In the Event of a Data Breach, What Do You Tell Your Customers?
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+ With the current announcements of personal information data breaches, it seems to be happening quite frequently. Some of the most-known data breaches of personal information are: Anthem, Ashley Madison, Ebay, JP Morgan Chase, Sony Pictures Entertainment, and Tricare.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+The most recent announcement came from Verizon Enterprise Solutions data breach, their massive data breach affected more than 1.5 million customers of their computer security wing.  This breach caused a major ripple effect since this particular division of Verizon helps other corporations when they are victims of data breaches.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+When a data breach occurs, according to the Security Breach Notification Laws…
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+    “Forty-seven states, the District of Columbia, Guam, Puerto Rico and the Virgin Islands have enacted legislation requiring private, governmental or educational entities to notify individuals of security breaches of information involving personally identifiable information. Security breach laws typically have provisions regarding who must comply with the law (e.g., businesses, data/ information brokers, government entities, etc); definitions of “personal information” (e.g., name combined with SSN, drivers license or state ID, account numbers, etc.); what constitutes a breach (e.g., unauthorized acquisition of data); requirements for notice (e.g., timing or method of notice, who must be notified); and exemptions (e.g., for encrypted information).”
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+For more information, state-specific laws are listed at the bottom of the page.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+How do cybercriminals target devices for the data that they store? It’s based on how easy you are to exploit and how clear of a path you have to critical systems and valuable data. Malware was a factor in over 50% of all personal information data breaches. The cybercriminals use it as part of the initial compromise in order to capture the valuable data thus allowing them to “leapfrog” into other systems and extract the info and cover their tracks.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+AlertOps has multiple ways to notify you; although we can’t stop a person information data breach from happening we can ensure that you receive the proper notifications to manage the service levels.  With AlertOps’ workflows helping to manage escalations, so if and when a data breach occurs, AlertOps can trigger notifications to people and systems simultaneously.  AlertOps will send reminders to the incident owners at regular intervals along with sending reminders based off of an SLA deadline.  Allowing you to trigger other flows, such as changing the control processes needed to resolve major data breach incidents.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+AlertOps’ SLAs are set based on priority and severity levels, which allows you to create over rides when needed.  AlertOps’ message rules and workflow engines give you the flexibility to configure and enhance your incident management solution to fit your needs and prevent personal information data breaches
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/do-you-need-to-notify-your-customers-when-personal-information-is-leaked-due-to-a-data-breach/
 
 Read more:
 ====
